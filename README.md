@@ -42,11 +42,6 @@ Sample:
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png?raw=true)
 
 ## Resources (Documentation and other links)
-*Kindly, check the above Report for guidance
-<object data="https://github.com/martin-ss/ROS_TurtleBot3/blob/main/FINAL%20REPORT_MARTIN%20EMILE.pdf" type="application/pdf" width="750px" height="750px">
-    <embed src="https://github.com/martin-ss/ROS_TurtleBot3/blob/main/FINAL%20REPORT_MARTIN%20EMILE.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/martin-ss/ROS_TurtleBot3/blob/main/FINAL%20REPORT_MARTIN%20EMILE.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/upload/main/FINAL REPORT_MARTIN EMILE/FINAL REPORT_MARTIN EMILE-11.png?raw=true)
 ## About The TurtleBot3 Project
 It is impelemneted as a part of a course module named Robotics Project for Master-2 
