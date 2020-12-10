@@ -144,7 +144,23 @@ package
 python file “waypoint_publisher.py” so just execute this file
 10- Observe the robot follow the specified way points
 
-## Resources (Documentation and other links)
-![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-01.png?raw=true)
+
+## Process (Steps)
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-09.png?raw=true)
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-10.png?raw=true)
+
+
+## Refrencess
+
+[1] https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+[2] https://www.roscomponents.com/en/mobile-robots/214-turtlebot-3.html#/courses-no
+[3] Book "ROS Robotics Projects"
+[4] http://wiki.ros.org/gmapping
+[5] Course titled “Mastering with ROS: Turtlebot3”
+[6] Course titled “ROS Navigation in 5 days”
+[7] http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber
+[8] http://wiki.ros.org/navigation
+
+
 ## About The TurtleBot3 Project
 It is impelemneted as a part of a course module named Robotics Project for Master-2 
