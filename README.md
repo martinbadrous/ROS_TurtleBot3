@@ -48,7 +48,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     *[Screenshot of the Environment](#Screenshot of the Environment)
+>     * [Screenshot of the Environment](#screenshot-of-the-Environment)
 >     * [Task 1 Steps](#features)
 >     * [Task 2 Steps](#features)
 >     * [Task 3 Steps](#features)
@@ -70,7 +70,7 @@ Sample:
 
 * This project is aimed to control the navigation of TurtleBot3 in a given environment through Mapping, Localization and Path Planning
 
-### Screenshots
+### Screenshot of the Environment
 
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png?raw=true)
 
@@ -159,7 +159,7 @@ python file “waypoint_publisher.py” so just execute this file\
 [5] Course titled “Mastering with ROS: Turtlebot3” \
 [6] Course titled “ROS Navigation in 5 days” \
 [7] http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber \
-[8] http://wiki.ros.org/navigation \
+[8] http://wiki.ros.org/navigation 
 
 
 ## About The TurtleBot3 Project
