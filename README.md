@@ -57,9 +57,6 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
 >   * [About the Project](#)
 
-## Approach
-![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-05.png?raw=true)
-
 
 ## Installation
 
@@ -148,6 +145,8 @@ python file “waypoint_publisher.py” so just execute this file\
 ## Process (Steps)
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-09.png?raw=true)
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-10.png?raw=true)
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-11.png?raw=true)
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-12.png?raw=true)
 
 
 ## Refrencess
