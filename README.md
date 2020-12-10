@@ -2,7 +2,7 @@
 
 ## About 
 
-* This package is detecated to manipulate, Navigate TurtleBot3 using different ROS packages
+* This package is dedicated to manipulate and Navigate with TurtleBot3 using different ROS packages
 * Project status: Fully working with Demos
 
 
