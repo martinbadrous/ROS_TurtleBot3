@@ -48,7 +48,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshot of the Environment](#Screenshot of the Environment)
+>     *[Screenshot of the Environment](#Screenshot of the Environment)
 >     * [Task 1 Steps](#features)
 >     * [Task 2 Steps](#features)
 >     * [Task 3 Steps](#features)
