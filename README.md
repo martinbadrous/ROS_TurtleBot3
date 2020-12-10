@@ -13,7 +13,7 @@
   order for the reader to be able to implement it him/her self.
 
 
-See real examples:
+## See DEMO examples:
 
 * <https://drive.google.com/drive/folders/191sR8DYO83IFeH6Y3nk76CO7pdj95PTV?usp=sharing>
 
@@ -43,17 +43,18 @@ See real examples:
 
 Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
-> * [Title / Repository Name](#title--repository-name)
->   * [About / Synopsis](#about--synopsis)
+> * [Title / Repository Name](#TurtleBot3)
+>   * [About / Synopsis](#Abstract)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshot of the Environment](#screenshots)
+>     * [Screenshot of the Environment](#screenshot of the Environment)
 >     * [Task 1 Steps](#features)
 >     * [Task 2 Steps](#features)
 >     * [Task 3 Steps](#features)
 >     * [Task 4 Steps](#features)
 >   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
+
 
 >   * [About the Project](#)
 
@@ -74,7 +75,7 @@ Sample:
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png?raw=true)
 
 ## Task 1
- *5-Basic steps for Task 1:
+
 1-Open a Linux shell window\
 2- Enter “ $ rostopic list -grep /cmd_vel” to make sure the topic exist\
 3-Enter “$ rosmsg show geometry_msgs / Twist” to see the structure of the messge\
@@ -151,14 +152,14 @@ python file “waypoint_publisher.py” so just execute this file\
 
 ## Refrencess
 
-[1] https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
-[2] https://www.roscomponents.com/en/mobile-robots/214-turtlebot-3.html#/courses-no
-[3] Book "ROS Robotics Projects"
-[4] http://wiki.ros.org/gmapping
-[5] Course titled “Mastering with ROS: Turtlebot3”
-[6] Course titled “ROS Navigation in 5 days”
-[7] http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber
-[8] http://wiki.ros.org/navigation
+[1] https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/\
+[2] https://www.roscomponents.com/en/mobile-robots/214-turtlebot-3.html#/courses-no\
+[3] Book "ROS Robotics Projects"\
+[4] http://wiki.ros.org/gmapping\
+[5] Course titled “Mastering with ROS: Turtlebot3”\
+[6] Course titled “ROS Navigation in 5 days”\
+[7] http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber\
+[8] http://wiki.ros.org/navigation\
 
 
 ## About The TurtleBot3 Project
