@@ -39,10 +39,6 @@ See real examples:
 ## Pipeline
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-04.png?raw=true)
 
-
-## Approach
-![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-05.png?raw=true)
-
 ## Table of contents
 
 Use for instance <https://github.com/ekalinin/github-markdown-toc>:
@@ -61,6 +57,10 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
 >   * [About the Project](#)
 
+## Approach
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-05.png?raw=true)
+
+
 ## Installation
 
 Sample:
@@ -75,6 +75,74 @@ Sample:
 ### Screenshots
 
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png?raw=true)
+
+## Task 1
+ *5-Basic steps for Task 1:
+1-Open a Linux shell window
+2- Enter “ $ rostopic list -grep /cmd_vel” to make sure the topic exist
+3-Enter “$ rosmsg show geometry_msgs / Twist” to see the structure of the messge
+you want to send through the topic
+4- Finally, Enter “$rostopic pub / cmd_vel geometry_msgs / Twist - '[2.0, 0.0, 0.0]'
+'[0.0, 0.0, 0.0]'” to see the robot moving in the x direction.
+
+
+## Task 2
+
+1- Extract my implemented package that comes along with this report
+2- Place it in your Catkin_ws/src file
+3- Before we start launching launch files, I would recommend to take a look at [4]
+for some information about the g_mapping node
+4- Launch Rviz to visualize the mapping process
+5- Launch the “start_mapping.launch” launch file
+6- Move the robot using the keyboard launch file
+7- Visualize the mapping while being built
+8- Make a directory to place the map files
+9- Save the Map
+10- For the localization part, launch “start_localization.launch” file
+11- Add a PoseArray into your Rviz that subscribe to /ParticleCloud12- Move the robot using the Keyboard
+13- Observe the red arrows getting denser on the location of the robot
+
+
+## Task 3
+
+1- Extract my implemented package that comes along with this report
+2- Place it in your Catkin_ws/src file
+3- For the path planning and navigation, launch the “ start_navigation.launch”
+launch file
+4- Launch Rviz to visualize the navigation process
+5- Using Rviz 2D naviagte button, send a position in the environment
+6- Kindly, note, the obstcale avoidance is already taken into account because we
+already mapped the environment with all the existing obstacles
+7- Visualize the navigation process
+13- Observe the path taken by the robot
+
+
+## Task 4
+
+First method, choosing way points manually
+1- Extract my implemented package that comes along with this report
+2- Place it in your Catkin_ws/src file
+3- Clone this library https://github.com/danielsnider/follow_waypoints4- Launch the “ start_navigation.launch” launch file that in the t3_navigation
+package
+5- Launch the “follow_waypoint.launch” launch file that is in the cloned package
+6- Start Rviz for visualizing
+7- Add A PoseArray to your Rviz that subscribe to the topic /way_points
+8- Choose your way points using the Rviz 2D Pose Est. button
+9- After choosing your way points, publish into the topic /path_ready
+10- Observe the robot follow the specified way points
+Second method, choosing way points using a python script
+1- Extract my implemented package that comes along with this report
+2- Place it in your Catkin_ws/src file
+3-Launch the “ start_navigation.launch” launch file that in the t3_navigation
+package
+5- Launch the “start_follow_waypoint.launch” launch file that is included in my
+package
+6- Start Rviz for visualizing or Gazebo
+7- Add A PoseArray to your Rviz that subscribe to the topic /way_points
+8- Specifiy your way_points in the python file titled “waypoint_publisher.py”
+9- After choosing your way points, publish into the topic /path_ready using the
+python file “waypoint_publisher.py” so just execute this file
+10- Observe the robot follow the specified way points
 
 ## Resources (Documentation and other links)
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-01.png?raw=true)
