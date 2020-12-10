@@ -1,17 +1,16 @@
 # ROS_TurtleBot3
-# Title / Repository Name
 
-## About / Synopsis
+## About 
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
+* This package is detecated to manipulate, Navigate TurtleBot3 using different ROS packages
+* Project status: Fully working with Demos
+
 
 See real examples:
 
-* <https://github.com/nuxeo/nuxeo/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-drive/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-sdk-ios/blob/master/README.md>
+* <https://drive.google.com/drive/folders/191sR8DYO83IFeH6Y3nk76CO7pdj95PT
+V?usp=sharing>
+
 
 ## Table of contents
 
@@ -39,13 +38,16 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
 Sample:
 
-* From the Nuxeo Marketplace: install [the Sample Nuxeo Package](https://connect.nuxeo.com/nuxeo/site/marketplace/package/nuxeo-sample).
-* From the command line: `nuxeoctl mp-install nuxeo-sample`
+* From the Crrent repo: git clone  https://github.com/martin-ss/ROS_TurtleBot3
+
 
 ## Usage
 
+* This project is aimed to control the navigation of TurtleBot3 in a given environment through Mapping, Localization and Path Planning
+
 ### Screenshots
 
+![alt text]https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png
 ### Features
 
 ## Code
