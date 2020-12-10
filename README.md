@@ -47,7 +47,7 @@ Sample:
 
 ### Screenshots
 
-![alt text]https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png?raw=true)
 ### Features
 
 ## Code
