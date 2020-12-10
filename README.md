@@ -42,6 +42,6 @@ Sample:
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/ros2.png?raw=true)
 
 ## Resources (Documentation and other links)
-![alt text](https://github.com/martin-ss/ROS_TurtleBot3/upload/main/FINAL REPORT_MARTIN EMILE/FINAL REPORT_MARTIN EMILE-11.png?raw=true)
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/FINAL%20REPORT_MARTIN%20EMILE-12.png?raw=true)
 ## About The TurtleBot3 Project
 It is impelemneted as a part of a course module named Robotics Project for Master-2 
