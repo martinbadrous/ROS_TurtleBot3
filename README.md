@@ -39,6 +39,10 @@ See real examples:
 ## Pipeline
 ![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-04.png?raw=true)
 
+
+## Approach
+![alt text](https://github.com/martin-ss/ROS_TurtleBot3/blob/main/Report/FINAL%20REPORT_MARTIN%20EMILE-05.png?raw=true)
+
 ## Table of contents
 
 Use for instance <https://github.com/ekalinin/github-markdown-toc>:
@@ -48,8 +52,11 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshots](#screenshots)
->     * [Features](#features)
+>     * [Screenshot of the Environment](#screenshots)
+>     * [Task 1 Steps](#features)
+>     * [Task 2 Steps](#features)
+>     * [Task 3 Steps](#features)
+>     * [Task 4 Steps](#features)
 >   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
 
 >   * [About the Project](#)
