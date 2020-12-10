@@ -1,9 +1,16 @@
 # ROS_TurtleBot3
 
-## About 
+## Abstract
 
-* This package is dedicated to manipulate and Navigate with TurtleBot3 using different ROS packages
-* Project status: Fully working with Demos
+* Demonstration of tutlebot3 robot control and simulation is achieved through
+  different completed tasks, which in order to be solved, a certain skills related
+  to ROS basics in programming and architecture understanding should be
+  mastered as described in the initial report, on top of that, Our simulated ROS
+  environment provided by The-Construct website is exploited with the
+  different provided ROS online courses as well as technical mentoring. As a
+  result, our implementation been able to achieve the 4 requested tasks. In this
+  report, a detailed guideline about the implementation will be presented in
+  order for the reader to be able to implement it him/her self.
 
 
 See real examples:
