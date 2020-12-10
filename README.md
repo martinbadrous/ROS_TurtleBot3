@@ -48,7 +48,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshot of the Environment](#screenshot of the Environment)
+>     * [Screenshot of the Environment](#Screenshot of the Environment)
 >     * [Task 1 Steps](#features)
 >     * [Task 2 Steps](#features)
 >     * [Task 3 Steps](#features)
@@ -152,14 +152,14 @@ python file “waypoint_publisher.py” so just execute this file\
 
 ## Refrencess
 
-[1] https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/\
-[2] https://www.roscomponents.com/en/mobile-robots/214-turtlebot-3.html#/courses-no\
-[3] Book "ROS Robotics Projects"\
-[4] http://wiki.ros.org/gmapping\
-[5] Course titled “Mastering with ROS: Turtlebot3”\
-[6] Course titled “ROS Navigation in 5 days”\
-[7] http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber\
-[8] http://wiki.ros.org/navigation\
+[1] https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/ \
+[2] https://www.roscomponents.com/en/mobile-robots/214-turtlebot-3.html#/courses-no \
+[3] Book "ROS Robotics Projects" \
+[4] http://wiki.ros.org/gmapping \
+[5] Course titled “Mastering with ROS: Turtlebot3” \
+[6] Course titled “ROS Navigation in 5 days” \
+[7] http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber \
+[8] http://wiki.ros.org/navigation \
 
 
 ## About The TurtleBot3 Project
