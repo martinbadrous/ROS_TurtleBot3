@@ -8,8 +8,7 @@
 
 See real examples:
 
-* <https://drive.google.com/drive/folders/191sR8DYO83IFeH6Y3nk76CO7pdj95PT
-V?usp=sharing>
+* <https://drive.google.com/drive/folders/191sR8DYO83IFeH6Y3nk76CO7pdj95PTV?usp=sharing>
 
 
 ## Table of contents
