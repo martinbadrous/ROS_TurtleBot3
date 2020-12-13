@@ -98,7 +98,7 @@ for some information about the g_mapping node\
 9- Save the Map\
 10- For the localization part, launch “start_localization.launch” file\
 11- Add a PoseArray into your Rviz that subscribe to /ParticleCloud12- Move the robot using the Keyboard\
-13- Observe the red arrows getting denser on the location of the robot\
+12- Observe the red arrows getting denser on the location of the robot\
 
 
 ## Task 3
@@ -112,7 +112,7 @@ launch file\
 6- Kindly, note, the obstcale avoidance is already taken into account because we
 already mapped the environment with all the existing obstacles\
 7- Visualize the navigation process\
-13- Observe the path taken by the robot\
+8- Observe the path taken by the robot\
 
 
 ## Task 4
@@ -122,25 +122,26 @@ First method, choosing way points manually\
 2- Place it in your Catkin_ws/src file\
 3- Clone this library https://github.com/danielsnider/follow_waypoints4- Launch the “ start_navigation.launch” launch file that in the t3_navigation
 package\
-5- Launch the “follow_waypoint.launch” launch file that is in the cloned package\
-6- Start Rviz for visualizing\
-7- Add A PoseArray to your Rviz that subscribe to the topic /way_points\
-8- Choose your way points using the Rviz 2D Pose Est. button\
-9- After choosing your way points, publish into the topic /path_ready\
-10- Observe the robot follow the specified way points\
+4- Launch the “follow_waypoint.launch” launch file that is in the cloned package\
+5- Start Rviz for visualizing\
+6- Add A PoseArray to your Rviz that subscribe to the topic /way_points\
+7- Choose your way points using the Rviz 2D Pose Est. button\
+8- After choosing your way points, publish into the topic /path_ready\
+9- Observe the robot follow the specified way points\\\
+
 Second method, choosing way points using a python script\
 1- Extract my implemented package that comes along with this report\
 2- Place it in your Catkin_ws/src file\
 3-Launch the “ start_navigation.launch” launch file that in the t3_navigation
 package\
-5- Launch the “start_follow_waypoint.launch” launch file that is included in my
+4- Launch the “start_follow_waypoint.launch” launch file that is included in my
 package\
-6- Start Rviz for visualizing or Gazebo\
-7- Add A PoseArray to your Rviz that subscribe to the topic /way_points\
-8- Specifiy your way_points in the python file titled “waypoint_publisher.py”\
-9- After choosing your way points, publish into the topic /path_ready using the
+5- Start Rviz for visualizing or Gazebo\
+6- Add A PoseArray to your Rviz that subscribe to the topic /way_points\
+7- Specifiy your way_points in the python file titled “waypoint_publisher.py”\
+8- After choosing your way points, publish into the topic /path_ready using the
 python file “waypoint_publisher.py” so just execute this file\
-10- Observe the robot follow the specified way points\
+9- Observe the robot follow the specified way points\
 
 
 ## Process (Steps)
